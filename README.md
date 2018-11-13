@@ -2,3 +2,4 @@
 
 Омельченко - https://github.com/AwesomeKPIPenguin/SeaBattle 
 Мокрий - https://github.com/AndreyMokryj/OOP
+Гуменюк - https://drive.google.com/open?id=1kcWM3FSqzM3PYAm2gddBEQensmLRvpEs
