@@ -6,3 +6,4 @@
 * Реденський - https://github.com/sashared/OOP2Lab
 * Рязановский - https://github.com/KiRRyaZ/Battleship
 * Томко - https://drive.google.com/open?id=1nvNTOaVjVwMLTpV8DrnMaVaNBJnUBLUG
+* Любченко - https://github.com/petroLubchenko/Robot2Game
