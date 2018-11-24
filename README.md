@@ -8,3 +8,4 @@
 * Томко - https://drive.google.com/open?id=1nvNTOaVjVwMLTpV8DrnMaVaNBJnUBLUG (Варіант 4 - Структура Компанії)
 * Любченко - https://github.com/petroLubchenko/Robot2Game (Варіант 5 - Роботи)
 * Осадчая - https://github.com/KseniyaOssad/PoorBattleShip (Вар 18 - морской бой)
+* Олексиюк - https://github.com/wowaolex/C-Sharp-labs/tree/master/lab2-1/lab2 (Вар 1 - Пятнашки)
