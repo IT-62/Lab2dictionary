@@ -1,4 +1,4 @@
-## Заливаем сюда ссылку на ваш репозиторий со 2 лабой по ООП (*<Фамилия> - <ссылка>(Варіант завдання - назва завдання)).
+## Заливаем сюда ссылку на ваш репозиторий со 2 лабой по ООП (*<Фамилия> - <ссылка>(<Вариант задания> - <название задания>)).
 * Олексиюк - https://github.com/wowaolex/C-Sharp-labs/tree/master/lab2-1/lab2 (Вар 1 - Пятнашки)
 * Омельченко - https://github.com/AwesomeKPIPenguin/SeaBattle (Варіант 2 - Морський бій)
 * Рязановский - https://github.com/KiRRyaZ/Battleship (Варіант 2 - Морський бій)
@@ -8,3 +8,4 @@
 * Реденський - https://github.com/sashared/OOP2Lab (Варіант 3 - Звіринець)
 * Томко - https://drive.google.com/open?id=1nvNTOaVjVwMLTpV8DrnMaVaNBJnUBLUG (Варіант 4 - Структура Компанії)
 * Любченко - https://github.com/petroLubchenko/Robot2Game (Варіант 5 - Роботи)
+* Каширина - https://github.com/OlhaKashyrina/LabOOP (Вар ...)
