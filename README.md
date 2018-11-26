@@ -9,3 +9,4 @@
 * Томко - https://drive.google.com/open?id=1nvNTOaVjVwMLTpV8DrnMaVaNBJnUBLUG (Варіант 4 - Структура Компанії)
 * Любченко - https://github.com/petroLubchenko/Robot2Game (Варіант 5 - Роботи)
 * Каширина - https://github.com/OlhaKashyrina/LabOOP (Вариант 3 - Зверинец)
+* Котляр - https://github.com/BadLabsOOP/SeaBattle(Вариант 2 - Морской бой)*
