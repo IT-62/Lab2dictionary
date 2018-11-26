@@ -8,4 +8,4 @@
 * Реденський - https://github.com/sashared/OOP2Lab (Варіант 3 - Звіринець)
 * Томко - https://drive.google.com/open?id=1nvNTOaVjVwMLTpV8DrnMaVaNBJnUBLUG (Варіант 4 - Структура Компанії)
 * Любченко - https://github.com/petroLubchenko/Robot2Game (Варіант 5 - Роботи)
-* Каширина - https://github.com/OlhaKashyrina/LabOOP (Вар ...)
+* Каширина - https://github.com/OlhaKashyrina/LabOOP (Вариант 3 - Зверинец)
