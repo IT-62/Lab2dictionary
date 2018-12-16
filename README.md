@@ -11,3 +11,4 @@
 * Каширина - https://github.com/OlhaKashyrina/LabOOP (Вариант 3 - Зверинец)
 * Котляр - https://github.com/BadLabsOOP/SeaBattle (Вариант 2 - Морской бой)
 * Клановець - https://github.com/AlexanderKlanovets/OOP2-Lab (Варіант 4 - Структура Компанії)
+* Сенишин - https://github.com/bsenyshyn/LabZoo (Варіант 3 - Звіринець)
